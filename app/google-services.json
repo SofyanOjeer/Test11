@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142648758795",
+    "project_id": "esp32-3a848",
+    "storage_bucket": "esp32-3a848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142648758795:android:59f5a39e569143d3e22d0e",
+        "android_client_info": {
+          "package_name": "com.example.mythermometer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142648758795-actg202obg9u8qr4hgn1cahl5epikq6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQr77LPO8sHJMo77bXviEgQ5zjIy1TiiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142648758795-actg202obg9u8qr4hgn1cahl5epikq6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
